@@ -101,8 +101,6 @@ Loading a WAV does only this:
 
 Loading does **not** run analysis automatically.
 
-* Note: Three sample WAV files of diffrent audio formats are included in Zip.
-
 ### 4. Analyze the WAV file
 
 Click **Analyze WAV**.
